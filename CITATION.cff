@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Update these fields before release."
+title: "Ozone Deposition"
+authors:
+  - family-names: "Brown"
+    given-names: "Flossie"
+version: 0.1.0
+date-released: 2026-11-20
+license: "GNU GPL 3.0"
+repository-code: "https://github.com/flossie-brown/O3_deposition_schemes"
