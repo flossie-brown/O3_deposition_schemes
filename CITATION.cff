@@ -4,6 +4,7 @@ title: "Ozone Deposition"
 authors:
   - family-names: "Brown"
     given-names: "Flossie"
+doi: 10.5281/zenodo.24397756
 version: 0.1.0
 date-released: 2026-11-20
 license: "GNU GPL 3.0"
